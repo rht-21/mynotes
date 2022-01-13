@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand {
+    font-family: 'Moon Dance', cursive;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.navbar {
+    padding: 10px 15px;
+}
